@@ -14,8 +14,8 @@ public class Scoping {
 
         //Block Scoping...
         {
-//            int a = 78;   already initialized can be init again
-                a=89;  // we can caj=hnge
+//            int a = 78;   already initialized cant be init again
+                a=89;  // we can change it
             int c =99;
             // values initialized in this block cant be used outside block
         }
