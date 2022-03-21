@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.Basics/1.Basics.iml" filepath="$PROJECT_DIR$/1.Basics/1.Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Loops/2.Loops.iml" filepath="$PROJECT_DIR$/2.Loops/2.Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Switch/3.Switch.iml" filepath="$PROJECT_DIR$/3.Switch/3.Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Functions and Methods/4.Functions and Methods.iml" filepath="$PROJECT_DIR$/4.Functions and Methods/4.Functions and Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.Array and Array list/5.Array and Array list.iml" filepath="$PROJECT_DIR$/5.Array and Array list/5.Array and Array list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.Linear Search Algorithm/6.Linear Search Algorithm.iml" filepath="$PROJECT_DIR$/6.Linear Search Algorithm/6.Linear Search Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.Binary Search/7.Binary Search.iml" filepath="$PROJECT_DIR$/7.Binary Search/7.Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.Problems on Binary Search/8.Problems on Binary Search.iml" filepath="$PROJECT_DIR$/8.Problems on Binary Search/8.Problems on Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.Bubble sort Algorithm/9.Bubble sort Algorithm.iml" filepath="$PROJECT_DIR$/9.Bubble sort Algorithm/9.Bubble sort Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA_with_JAVA.iml" filepath="$PROJECT_DIR$/.idea/DSA_with_JAVA.iml" />
+    </modules>
+  </component>
+</project>
