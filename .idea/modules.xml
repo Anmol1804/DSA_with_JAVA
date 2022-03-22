@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.Basics/1.Basics.iml" filepath="$PROJECT_DIR$/1.Basics/1.Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/10.Selection sort Algorithm/10.Selection sort Algorithm.iml" filepath="$PROJECT_DIR$/10.Selection sort Algorithm/10.Selection sort Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.Insertion sort Algorithm/11.Insertion sort Algorithm.iml" filepath="$PROJECT_DIR$/11.Insertion sort Algorithm/11.Insertion sort Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.Loops/2.Loops.iml" filepath="$PROJECT_DIR$/2.Loops/2.Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.Switch/3.Switch.iml" filepath="$PROJECT_DIR$/3.Switch/3.Switch.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.Functions and Methods/4.Functions and Methods.iml" filepath="$PROJECT_DIR$/4.Functions and Methods/4.Functions and Methods.iml" />
